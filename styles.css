@@ -1,0 +1,16 @@
+body{
+    background: rgb(71, 65, 65);
+}
+
+.clock{
+    font-size: 4em;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin: 400px auto;
+}
+
+.clock span{
+    padding: 20px;
+    background:  rgb(116, 95, 95);
+}
